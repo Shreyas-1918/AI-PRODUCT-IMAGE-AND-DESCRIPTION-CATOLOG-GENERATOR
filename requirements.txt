@@ -1,0 +1,13 @@
+flask
+google-generativeai
+replicate
+Pillow
+torch
+transformers
+scikit-learn
+pandas
+matplotlib
+seaborn
+fpdf
+customtkinter
+requests
