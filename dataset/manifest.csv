@@ -1,0 +1,21 @@
+image_path,text,label
+dataset\images\img_0.png,red gaming mouse,1
+dataset\images\img_0.png,white wireless earbuds,0
+dataset\images\img_1.png,blue mechanical keyboard,1
+dataset\images\img_1.png,yellow smart watch,0
+dataset\images\img_2.png,green vr headset,1
+dataset\images\img_2.png,blue mechanical keyboard,0
+dataset\images\img_3.png,yellow smart watch,1
+dataset\images\img_3.png,blue mechanical keyboard,0
+dataset\images\img_4.png,purple drone,1
+dataset\images\img_4.png,orange bluetooth speaker,0
+dataset\images\img_5.png,orange bluetooth speaker,1
+dataset\images\img_5.png,purple drone,0
+dataset\images\img_6.png,black noise cancelling headphones,1
+dataset\images\img_6.png,blue mechanical keyboard,0
+dataset\images\img_7.png,white wireless earbuds,1
+dataset\images\img_7.png,silver laptop stand,0
+dataset\images\img_8.png,silver laptop stand,1
+dataset\images\img_8.png,black noise cancelling headphones,0
+dataset\images\img_9.png,gold smartphone case,1
+dataset\images\img_9.png,white wireless earbuds,0
